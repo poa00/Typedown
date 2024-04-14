@@ -32,7 +32,7 @@
     "html-tags": "^3.1.0",
     "imports-loader": "^0.8.0",
     "joplin-turndown-plugin-gfm": "^1.0.12",
-    "katex": "^0.15.2",
+    "katex": "^0.16.10",
     "mermaid": "^8.13.10",
     "minizlib": "^2.1.2",
     "path-browserify": "^1.0.1",
